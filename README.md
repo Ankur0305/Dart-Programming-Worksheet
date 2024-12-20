@@ -77,13 +77,67 @@ Print the updated map.
 9. Bubble Sort
 Write a Dart program to implement the Bubble Sort algorithm and sort a list of integers [5, 2, 9, 1, 5, 6] in ascending order.
 
+Output:
 
 ![Screenshot 2024-12-20 210833](https://github.com/user-attachments/assets/1045aeba-a1f4-455a-9c19-7686414053ed)
 
 10. Binary Search
 Write a Dart program to implement the Binary Search algorithm. Search for the number 7 in the sorted list [1, 3, 5, 7, 9, 11]. If found, print its index.
 
+Output:
+
 ![Screenshot 2024-12-20 210900](https://github.com/user-attachments/assets/bec1480d-d993-451e-8440-6380f96e60f6)
+
+11. Class and Object
+Write a Dart program to create a class Car with the following properties:
+
+brand (String)
+model (String)
+year (int)
+Add a method displayInfo() that prints the car's details. Create an object of the Car class and call the displayInfo() method.
+Output:
+
+![Screenshot 2024-12-20 214521](https://github.com/user-attachments/assets/034815c0-b955-4ec4-890c-adef4768da81)
+
+12. Inheritance
+Write a Dart program to demonstrate inheritance. Create a base class Animal with a method makeSound() that prints "Animal makes a sound". Create a derived class Dog that overrides the makeSound() method to print "Dog barks".
+Output:
+
+![Screenshot 2024-12-20 211452](https://github.com/user-attachments/assets/3cd940c3-dabe-41bd-9513-0de387876d5c)
+
+14. Optional Parameters
+Write a Dart program with a function greet that takes two parameters: name (required) and message (optional). If message is not provided, default it to "Welcome".
+
+Example Call:
+
+greet("Alice");
+greet("Bob", "Good Morning");
+Output:
+
+![Screenshot 2024-12-20 211625](https://github.com/user-attachments/assets/29aa13b4-3035-444e-b32c-16001a16fc64)
+
+14. Anonymous Function
+Write a Dart program that uses an anonymous function to print the square of each number in a list: [1, 2, 3, 4, 5].
+Output:
+
+![Screenshot 2024-12-20 211722](https://github.com/user-attachments/assets/bc8c04ea-1911-4c4d-8060-71f697d31120)
+
+16. Bonus Question
+    Palindrome Checker
+Write a Dart program to check if a given string is a palindrome. A string is a palindrome if it reads the same backward as forward. Test with the string "madam".
+
+Output:
+
+![Screenshot 2024-12-20 211754](https://github.com/user-attachments/assets/c561465f-d3c3-465b-b8ad-afe8c816bc18)
+
+
+
+
+
+
+
+
+
 
 
 
