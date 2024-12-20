@@ -5,6 +5,8 @@ This is a Worksheet (Internship)
 Write a Dart program that prints:
 Hello, Dart! Welcome to Programming.
 
+Output:
+
 ![Screenshot 2024-12-20 210056](https://github.com/user-attachments/assets/4f7d967b-eca9-4a24-b002-ecd080d22acf)
 
 2. Simple Arithmetic Operations
@@ -16,6 +18,8 @@ Product
 Quotient
 Assign a = 10 and b = 5.
 
+Output:
+
 ![Screenshot 2024-12-20 210245](https://github.com/user-attachments/assets/951632d3-7b76-4bdb-a70a-988735b8f928)
 
 3. Check Odd or Even
@@ -24,6 +28,8 @@ Write a Dart program to check if a given number is odd or even.
 Define a variable num = 11.
 Print "Even" if the number is even.
 Print "Odd" if the number is odd.
+
+Output:
 
 ![Screenshot 2024-12-20 210326](https://github.com/user-attachments/assets/9550549b-b5c5-4a29-b1af-7bf6de10b7e1)
 
@@ -36,11 +42,15 @@ Write a Dart program to perform addition, subtraction, multiplication, and divis
 Use two inputs a = 8 and b = 4.
 Create separate functions for each operation.
 
+Output:
+
 ![Screenshot 2024-12-20 210431](https://github.com/user-attachments/assets/60e9c527-56bb-4a09-8086-49c1a89013ac)
 
 5. Fibonacci Series
 Write a Dart program to print the first 10 terms of the Fibonacci series.
 The Fibonacci series starts with 0 and 1.
+
+Output:
 
 ![Screenshot 2024-12-20 211859](https://github.com/user-attachments/assets/e2ff3007-f23e-4536-be3d-295bdf1aa544)
 
@@ -52,6 +62,8 @@ Add the number 7 to the list.
 Sort the list in ascending order.
 Print the sorted list.
 
+Output:
+
 ![Screenshot 2024-12-20 210614](https://github.com/user-attachments/assets/1fd8b0c5-015b-46bb-a32d-3a7622a082c6)
 
 7. Working with Sets
@@ -62,6 +74,8 @@ Add a new number 5 to the set.
 Remove the number 2 from the set.
 Print the final set.
 
+Output:
+
 ![Screenshot 2024-12-20 210737](https://github.com/user-attachments/assets/9e0fa029-20c1-4edc-b427-f8991587110e)
 
 8. Working with Maps
@@ -71,6 +85,8 @@ Create a map with the following key-value pairs: {'name': 'Alice', 'age': 25, 'c
 Add a new key-value pair: 'country': 'USA'.
 Update the value of 'age' to 26.
 Print the updated map.
+
+Output:
 
 ![Screenshot 2024-12-20 210806](https://github.com/user-attachments/assets/5bf2b2e0-8ebf-4a5d-a9ce-ccfc33813cad)
 
